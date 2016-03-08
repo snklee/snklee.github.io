@@ -3,11 +3,11 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /:title/
 # relative_permalinks: true
 
 # Setup
-title:            Rahman Kadierding
+title:            Rahman
 tagline:          'Welcome!'
 description:      'Blog and homepage of Rahman Kadierding. I am finishing up my undergrad degree in a month, yey!'
 url:              http://snklee.github.io/
@@ -22,8 +22,10 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/snklee/snklee.github.io
+github:           https://github.com/snklee
+  # repo:           https://github.com/snklee/snklee.github.io
+
+linkedin:         https://ca.linkedin.com/in/kreheman
 
 # Gems
 gems:
